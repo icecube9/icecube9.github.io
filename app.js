@@ -1,4 +1,4 @@
 //Changes the text in a p element
-function myfuntion() {
+function myfunction() {
     document.getElementById('textchanged').innerHTML = "This is text that changed"
 }
